@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihiru Kongahage</h1>
 
+<br>
 
 <p align="center">
   <a href="mailto:mihirukongahage@gmail.com">
@@ -12,6 +13,8 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a> 
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/mihiru_kongahage">
@@ -28,6 +31,7 @@
   </a> 
 </p>
 
+<br>
 
 <p>
 👨‍💻 Software Engineer with over 1 year of industry experience, passionate about building robust and scalable software solutions.<br>
@@ -72,7 +76,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height=20>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" height=20>
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ea2845?style=flat-square&logo=express&logoColor=white" height=20>
-
+<br>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height=20>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height=20>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height=20>
