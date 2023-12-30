@@ -48,7 +48,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihirukongahage&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirukongahage&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/mihirukongahage)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirukongahage&theme=transparent&bg_color=20232a&hide_border=true" width="80%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirukongahage&theme=blueberry&bg_color=none&hide_border=true&color=1b6aff&line=1b6aff" width="80%"/>
+
 
 </div>
 
